@@ -11,7 +11,6 @@ export default function Create() {
     const [checkbox, setCheckbox] = useState(false);
     
     const postData = () => {
-        // axios.post(`process.env.MOCK_API_KEY`, {
         axios.post(`${process.env.REACT_APP_MOCK_API_KEY}`, {
             firstName,
             lastName,

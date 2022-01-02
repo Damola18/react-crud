@@ -1,5 +1,5 @@
-# React Crud Application 🔥
-A basic crud application built with React interacting with a mock API on https://mockapi.io
+# React  Application 🔥
+A basic game application built with React and Redux 
 
 
 Star⭐ the repo if you like what you see😉.
